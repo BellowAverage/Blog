@@ -1,3 +1,3 @@
-This repo documents codes, algorithms, tech-related courses notes and random ideas considered recyclable.
-Some are in English, while others are in Chinese, both written in simple grammar that are easily auto-translated.
-Also note that the database of my notes encountered an unsuccessful migration, resulting in all notes created before 1:48 PM on September 12, 2024, displaying the same timestamp as that time.
+* This repo documents codes, algorithms, tech-related courses notes and random ideas considered recyclable.
+* Some are in English, while others are in Chinese, both written in simple grammar that are easily auto-translated.
+* Also note that the database of my notes encountered an unsuccessful migration, resulting in all notes created before 1:48 PM on September 12, 2024, displaying the same timestamp as that time.
